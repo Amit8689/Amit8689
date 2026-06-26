@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Amit, a computer science student in Bhubaneswar.
 
 <!--
 **Amit8689/Amit8689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
